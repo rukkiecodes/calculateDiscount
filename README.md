@@ -1,7 +1,3 @@
-Certainly! Here's a detailed Markdown documentation for the provided code that calculates the discounted amount based on different discount rates and conditions:
-
----
-
 # **calculateDiscount Function Documentation**
 
 ## **Introduction**
